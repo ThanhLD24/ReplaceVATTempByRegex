@@ -1,0 +1,7 @@
+E:\Project\VisualStudio\ReplaceVATTemp\ReplaceVATTemp\bin\Debug\ReplaceVATTemp.exe.config
+E:\Project\VisualStudio\ReplaceVATTemp\ReplaceVATTemp\bin\Debug\ReplaceVATTemp.exe
+E:\Project\VisualStudio\ReplaceVATTemp\ReplaceVATTemp\bin\Debug\ReplaceVATTemp.pdb
+E:\Project\VisualStudio\ReplaceVATTemp\ReplaceVATTemp\obj\Debug\ReplaceVATTemp.csprojAssemblyReference.cache
+E:\Project\VisualStudio\ReplaceVATTemp\ReplaceVATTemp\obj\Debug\ReplaceVATTemp.csproj.CoreCompileInputs.cache
+E:\Project\VisualStudio\ReplaceVATTemp\ReplaceVATTemp\obj\Debug\ReplaceVATTemp.exe
+E:\Project\VisualStudio\ReplaceVATTemp\ReplaceVATTemp\obj\Debug\ReplaceVATTemp.pdb
